@@ -1,6 +1,6 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="index.html" target="_blank">**Visit Now** 🚀</a>
+<a href="https://shalini3github.github.io/_Portfolio/" target="_blank">**Visit Now** 🚀</a>
 
 
