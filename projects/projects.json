@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Calculator",
+    "desc": "Perform any number of calculations within seconds!",
+    "image": "calculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://shalini3github.github.io/t3_Calculator/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website that makes you stand out among crowd!",
+    "image": "portfolio3",
+    "category": "basicweb",
+    "links": {
+      "view": " ",
+      "code": "#"
+    }
+  },
+  {
+    "name": "TravelBea",
+    "desc": "Travel beaches across the globe by just one click!",
+    "image": "travelbea",
+    "category": "mern",
+    "links": {
+      "view": "https://shalini3github.github.io/t2_landing/",
+      "code": "#"
+    }
+  }
+]
